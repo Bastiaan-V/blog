@@ -4,9 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: https://zachholman.com/left
+name: Bastiaan Visser
+url: http://bastiaanvisser.info
 description: A fantastic blog that is fantastic.
-twitter: holman
-
-theme: jekyll-theme-hacker
+twitter: bvisser
